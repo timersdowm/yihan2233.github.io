@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Yihan Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "None"
   location         : "Beijing, China"
-  employer         : "Red Brick University"
+  employer         : "Beihang University"
   uri              : # URL
   email            : "21377177@buaa.edu.cn" 
 
