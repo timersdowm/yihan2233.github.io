@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student from Beihang University, who has just entered the field of scientific research. Passionate about cutting-edge research in artificial intelligence and skilled in algorithm programming
+I am a senior undergraduate student from Beihang University.  My research interests include applications of large language models and big data intelligence. 
 
